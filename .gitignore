@@ -1,0 +1,15 @@
+# Ejecutables generados
+Ejecutables/
+
+# Archivos temporales
+*.tmp
+
+# Archivos compilados Java
+*.class
+*.jar
+
+# Configuración privada de NetBeans
+nbproject/private/
+
+# Logs
+*.log
